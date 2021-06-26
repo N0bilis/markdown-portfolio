@@ -1,1 +1,4 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+Will people _believe_ that this is a __real__ profile.
+Or will they know this is *fake* so that I can learn **markdown**
+
+This is __*combined*__
